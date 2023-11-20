@@ -1,0 +1,30 @@
+[
+    {
+        "booking_id": "A123",
+        "doctor_name": "Dr. Buyisa Matolengwe",
+        "location": "4 Sauer Street, Butterworth, 4960",
+        "appointment_date": "2023-10-31",
+        "appointment_time": "09:00 AM - 09:30 AM"
+    },
+    {
+        "booking_id": "A124",
+        "doctor_name": "Dr. E K Duku",
+        "location": "4 Sauer Street, Butterworth, 4960",
+        "appointment_date": "2023-11-03",
+        "appointment_time": "03:00 PM - 04:00 PM"
+    },
+    {
+        "booking_id": "A125",
+        "doctor_name": "Dr. Jikwana",
+        "location": "4 Sauer Street, Butterworth, 4960",
+        "appointment_date": "2023-11-07",
+        "appointment_time": "10:00 AM - 11:00 AM"
+    },
+    {
+        "booking_id": "A126",
+        "doctor_name": "Dr. K Osei-Amankwah",
+        "location": "4 Sauer Street, Butterworth, 4960",
+        "appointment_date": "2023-11-11",
+        "appointment_time": "02:00 PM - 02:30 PM"
+    }
+]
